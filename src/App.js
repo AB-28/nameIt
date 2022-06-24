@@ -9,7 +9,7 @@ class App extends React.Component {
   };
 
   handleInputChange = () => {
-    alert('Called');
+    alert('this is called');
   };
 
   render() {
